@@ -1,0 +1,7 @@
+{
+  "name": "simple-typescript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Cuong Duy Nguyen <ndc07.it@gmail.com>",
+  "license": "MIT"
+}
